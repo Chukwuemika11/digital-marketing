@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Overpass', sans-serif;
+}
+
+main{
+    padding: 30px 80px;
+}
+
+.main-container{
+    box-shadow: 5px 5px 10px #888888;
+    border-radius: 10px;
+    background-color: rgba(173, 216, 230, 0.721);
+    padding: 10px 60px;
+    width: 620px;
+    height: 810px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.info{
+    padding-top:-10px;
+}
+.first-container ,h1{
+    text-align: center;
+    padding-top: 10px;
+    color: rgba(0, 0, 0, 0.596);
+}
+
+.first-container, img{
+    width: 450px;
+    height: 200px;
+    padding: 10px;
+  border-radius: 30px;
+  border: none;
+}
+
+.digitalMarketing-image{
+    margin-top: 20px;
+}
+
+.telephone{
+    display: flex;
+     gap: 5px; 
+     margin-left: -40px;
+     padding-top: 10px;
+     text-align: center;
+}
+
+.address{
+    padding-bottom:10px;
+    padding-top:10px;
+}
+
+.second-container{
+    padding-top: 20px;
+    gap: 10px;
+}
+
+ .svg{
+    width: 20px;
+    margin-top: 10px;
+}
+
